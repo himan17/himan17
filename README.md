@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">I am a Full Stack Developer and Competitive Programmer! Apart from this I enjoy reading buisness and geo-political case studies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himan17&label=Profile%20views&color=0e75b6&style=flat" alt="himan17" /> </p>
